@@ -1,0 +1,12 @@
+{
+  "title": "vercel",
+  "compiledAt": "2026-05-23T06:53:29.443Z",
+  "data": {
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "/"
+      }
+    ]
+  }
+}
